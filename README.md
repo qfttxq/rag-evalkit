@@ -43,7 +43,7 @@ $ rag-evalkit eval runs.jsonl
 不需要装任何依赖：
 
 ```bash
-git clone https://github.com/<your-name>/rag-evalkit.git
+git clone https://github.com/qfttxq/rag-evalkit.git
 cd rag-evalkit
 pip install -e .
 ```
